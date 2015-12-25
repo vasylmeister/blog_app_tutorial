@@ -1,28 +1,6 @@
-== README
+This is my first practical experience with git.
+I am taking a initial Rails tutorial.
+We build a blog.
+Also I take the M.Hart tutorial and apply newly acquired knowledge to blog turorial.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Soon I'll be working on my own project :)
